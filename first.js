@@ -5,3 +5,5 @@ const balance = 300;
 const account = 230;
 
 console.log("Hello coder army");
+
+console.log("Latest Update");
